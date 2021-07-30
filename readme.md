@@ -276,3 +276,7 @@
 
 - [code of ziyeshanwai](https://github.com/ziyeshanwai/python-laplacian-deformation)
 
+- [Principle of Laplacian](https://blog.csdn.net/z136411501/article/details/107622967)
+
+- [Tutorial of Laplacian Mesh Editing](http://www.ctralie.com/Teaching/LapMesh/#download)
+
