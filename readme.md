@@ -261,6 +261,9 @@
 
     ![Keep Vert Order](docs/figs/Keep Vert Order.jpg)
 
+## Future
+
+- cotan权重计算
 
 ## References
 
